@@ -8,11 +8,11 @@
 <p align="left">
 I am passionate about technology, and ever since I was a child, I started programming, a world that fascinated and captivated me from the very beginning. Blockchain and web3.0 are my favorite topics, as they represent the digital evolution and the possibility of creating and participating in decentralized ecosystems.
 
-One of my most rewarding experiences has been collaborating with Cryptorivista, an Italian magazine specialized in the world of cryptocurrencies and blockchain, where I could share my knowledge and learn from industry experts.
+One of my most rewarding experiences has been collaborating with <a href="https://github.com/CryptoRivista" target="blank">@Cryptorivista</a>, an Italian magazine specialized in the world of cryptocurrencies and blockchain, where I could share my knowledge and learn from industry experts.
 
-I have also had the opportunity to work with Clustr, an innovative company that developed software for investment portfolio evaluation with awareness.
+I have also had the opportunity to work with <a href="https://github.com/clustr-tech" target="blank">@Clustr</a>, an innovative company that developed software for investment portfolio evaluation with awareness.
 
-Not content with these experiences, I created an organization with friends who share a passion for technology and software. Together, we dedicate ourselves to creating tools and software that simplify and improve our workflows for personal and non-personal projects.
+Not content with these experiences, I created <a href="https://github.com/doopley" target="blank">@Doopley</a> with who share a passion for technology and software. Together, we dedicate ourselves to creating tools and software that simplify and improve our workflows for personal and non-personal projects.
 
 I am always on the lookout for new challenges and opportunities to grow in the field of technology, aware that there is still much to explore and learn in this fascinating and ever-evolving world.
 </p>
