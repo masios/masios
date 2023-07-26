@@ -12,7 +12,7 @@ One of my most rewarding experiences has been collaborating with <a href="https:
 
 I have also had the opportunity to work with <a href="https://github.com/clustr-tech" target="blank">@Clustr</a>, an innovative company that developed software for investment portfolio evaluation with awareness.
 
-Not content with these experiences, I created <a href="https://github.com/doopley" target="blank">@Doopley</a> with who share a passion for technology and software. Together, we dedicate ourselves to creating tools and software that simplify and improve our workflows for personal and non-personal projects.
+Not satisfied with these experiences, I created <a href="https://github.com/doopley" target="blank">@Doopley</a> with who share a passion for technology and software. Together, we dedicate ourselves to creating tools and software that simplify and improve our workflows for personal and non-personal projects.
 
 I am always on the lookout for new challenges and opportunities to grow in the field of technology, aware that there is still much to explore and learn in this fascinating and ever-evolving world.
 </p>
