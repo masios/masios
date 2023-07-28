@@ -47,7 +47,7 @@ I am always on the lookout for new challenges and opportunities to grow in the f
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
 </a> 
 
-<h4 align="left">Languages:</h4>
+<h4 align="left">Languages (& not):</h4>
 <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
 </a> 
