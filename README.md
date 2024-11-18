@@ -243,3 +243,10 @@ zx
 <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50" />
 </a>
+
+<style>
+a {
+    text-decoration: none;
+    text-underline-offset: 0;
+}
+</style>
